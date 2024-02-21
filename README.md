@@ -6,7 +6,7 @@
 2. Embedded interface?
  - Join multiple interfaces
  - Demo2: PrinterScanner
-3. Empty interfaces: 
+3. Empty interfaces
  - Println
  - Type Casting
 4. In case of contract
