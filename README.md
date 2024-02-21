@@ -1,12 +1,13 @@
 # Agenda
 1. What is interface?
  - Data type
- - Contract
  - Demo: Animal
  - Handle multiple types as one
  - Demo: Employers
-2. Embedded interface?
+2. Empty interfaces: 
+ - Println
+3. Embedded interface?
  - Join multiple interfaces
  - Demo: PrinterScanner
-3. Empty interfaces: 
- - Println
+4. In case of contract
+ - Demo: database
